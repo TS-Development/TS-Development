@@ -1,7 +1,7 @@
 <!-- CYBER IDENTITY HEADER -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TS-Development/TS-Development/main/teerth_binary_logo.svg" width="900"/>
+  <img src="[https://raw.githubusercontent.com/TS-Development/TS-Development/main/teerth_binary_logo.svg](https://raw.githubusercontent.com/TS-Development/TS-Development/refs/heads/main/teerth_binary_logo.svg)" width="900"/>
 </p>
 
 <p align="center">
