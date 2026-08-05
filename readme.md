@@ -1,18 +1,18 @@
-<!-- Terminal-style Header -->
+<!-- Terminal-style Animated Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&color=00FFB3&center=true&vCenter=true&width=700&lines=>+Initializing+Teerth.exe...;>+Automation+%7C+Bots+%7C+Systems;>+Status:+Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&color=00FFB3&center=true&vCenter=true&width=700&lines=>+Initializing+Teerth.exe...;>+BTech+CSE+Student;>+Automation+%7C+Bots+%7C+AI+Integration" />
 </p>
 
 ```bash
 > whoami
 Teerth Sonawani
 
-> role
-Automation-focused developer / system builder
+> education
+1st Year BTech CSE
 
-> focus
-Bots • APIs • Real-world problem solving
+> current_status
+Learning Java
 ```
 
 ---
@@ -23,22 +23,22 @@ Bots • APIs • Real-world problem solving
 languages:
   - Python
   - JavaScript
+  - HTML
+  - CSS
 
-tools:
-  - Node.js
+specializations:
   - Discord API
   - Mineflayer
-
-interests:
-  - Automation
-  - Systems Design
-  - Product Thinking
+  - AI Integration
+  - Prompt Engineering
 ```
 
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=00FFB3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=00FFB3)
+![HTML](https://img.shields.io/badge/HTML-111111?style=for-the-badge\&logo=html5\&logoColor=00FFB3)
+![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge\&logo=css3\&logoColor=00FFB3)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=nodedotjs\&logoColor=00FFB3)
 ![Discord API](https://img.shields.io/badge/Discord-111111?style=for-the-badge\&logo=discord\&logoColor=00FFB3)
 
@@ -57,8 +57,8 @@ interests:
   - Skyblock bot
   - Prison automation
 
-+ API Tools
-  - URL shortener
++ AI Tools
+  - Prompt-based systems
   - Integrations
 ```
 
@@ -70,10 +70,6 @@ interests:
   <img src="https://github-readme-stats.vercel.app/api?username=TS-Development&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TS-Development&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🧩 Current Objectives
@@ -81,16 +77,16 @@ interests:
 ```bash
 [ ] Build 1 production-level project
 [ ] Improve system architecture
-[ ] Learn product + data thinking
-[ ] Ship consistently
+[ ] Master Java basics
+[ ] Ship consistent projects
 ```
 
 ---
 
-## 📡 Connect
+## 📫 Contact
 
 ```bash
-discord: <your tag>
+email: SonawaniTeerth@gmail.com
 ```
 
 ---
