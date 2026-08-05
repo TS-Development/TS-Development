@@ -1,34 +1,11 @@
 <!-- HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=700&color=22F7C2&center=true&vCenter=true&width=800&lines=>+Booting+Teerth.exe;>+CSE+%7C+Systems+Engineer+in+Progress;>+Automation+%7C+AI+Integration;>+Build.+Break.+Optimize.+Repeat." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=700&color=22F7C2&center=true&vCenter=true&width=800&lines=>+Booting+Teerth.exe;>+CSE+%7C+Systems+Engineer+in+Progress;>+AI+Integration+%7C+Discord+Bots;>+Python+%7C+Automation" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22F7C2,100:6366F1&height=2&section=header"/>
-</p>
-
----
-
-<!-- TERMINAL -->
-
-<p align="center">
-
-```bash
-┌──(teerth㉿system)-[~/profile]
-└─$ whoami
-Teerth Sonawani
-
-└─$ education
-BTech CSE (Year 1)
-
-└─$ current_focus
-Java • Systems • Automation
-
-└─$ mindset
-Build > Talk
-```
-
 </p>
 
 ---
@@ -61,14 +38,14 @@ Build > Talk
 
 ---
 
-## ⚡ Dynamic
+## ⚡ Focus Areas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2200&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=AI+Integration;Discord+Bot+Development;Python+Automation;System+Design+Thinking" />
 </p>
 
 <p align="center">
-  <b>Python Beginner → Intermediate → Advanced</b>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:22F7C2&height=2"/>
 </p>
 
 ---
