@@ -38,7 +38,7 @@
 ### AI / Applied
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Integration-0A0A0A?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt Engineering-111827?style=for-the-badge&logo=probot&logoColor=22F7C2"/>
 </p>
 
