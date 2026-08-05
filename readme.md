@@ -16,6 +16,18 @@
 
 ---
 
+## ⚡ Overview
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently_Learning-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+<p align="center">
+  Interested in <b>Product Management</b>, <b>Data Analysis</b>, and <b>Strategic Decision Making</b>
+</p>
+
+---
+
 ## ⚙️ Tech Stack
 
 ### Languages
@@ -39,19 +51,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI_Integration-0A0A0A?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt Engineering-111827?style=for-the-badge&logo=probot&logoColor=22F7C2"/>
-</p>
-
----
-
-## ⚡ Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<p align="center">
-  <b>Python → Automation → Systems → AI</b>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge&logo=probot&logoColor=22F7C2"/>
 </p>
 
 ---
