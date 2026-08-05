@@ -1,15 +1,7 @@
 <!-- CYBER IDENTITY HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=800&pause=200&color=00FF41&center=true&vCenter=true&width=900&lines=010101+010010+011001+010101+011000;ACCESSING+IDENTITY...;DECRYPTING+PROFILE...;WELCOME+TEERTH+SONAWANI" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/TS-Development/TS-Development/main/teerth_binary_logo.svg" width="900"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=800&lines=%3E+AI+Integration;%3E+Discord+Bot+Development;%3E+Python+Automation;%3E+Building+Intelligent+Systems" />
 </p>
 
 <p align="center">
