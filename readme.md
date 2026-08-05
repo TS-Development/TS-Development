@@ -19,7 +19,9 @@
 ## 👋 Introduction
 
 <p align="center">
-  Hello, I’m <b>Teerth Sonawani</b>. I’m a first-year <b>B.Tech CSE</b> student in India. I build projects with practical, real-world utility. Interested in <b>Project Management</b>.
+  Hello, I’m <b>Teerth Sonawani</b> — a first-year <b>B.Tech CSE</b> student in India.<br>
+  I build practical, real-world projects including <b>Discord bots</b>, <b>parsers</b>, <b>websites</b>, <b>AI-integrated tools</b>, and <b>quality-of-life utilities</b>.<br>
+  Currently focused on development, with a long-term interest in moving into <b>Project Management</b>.
 </p>
 
 ---
