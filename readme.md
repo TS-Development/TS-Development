@@ -17,33 +17,30 @@ Learning Java
 
 ---
 
-## Tech Stack
+## Stack
 
-```yaml
-languages:
-  - Python
-  - JavaScript
-  - HTML
-  - CSS
+### Languages
 
-domains:
-  - Automation
-  - Systems
-  - AI Integration
-  - Prompt Engineering
+<p>
+  <img src="https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-1e293b?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-1e293b?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+</p>
 
-tools:
-  - Node.js
-  - Discord API
-  - Mineflayer
-```
+### Systems / Runtime
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=00FFB3"/>
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=00FFB3"/>
-  <img src="https://img.shields.io/badge/HTML-0f172a?style=for-the-badge&logo=html5&logoColor=00FFB3"/>
-  <img src="https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css3&logoColor=00FFB3"/>
-  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=00FFB3"/>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=nodedotjs&logoColor=3C873A"/>
+  <img src="https://img.shields.io/badge/Mineflayer-020617?style=for-the-badge&logo=javascript&logoColor=00FFB3"/>
+  <img src="https://img.shields.io/badge/Discord_API-020617?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+</p>
+
+### AI / Applied Work
+
+<p>
+  <img src="https://img.shields.io/badge/AI_Integration-111827?style=for-the-badge&logo=openai&logoColor=00FFB3"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge&logo=probot&logoColor=00FFB3"/>
 </p>
 
 ---
@@ -52,9 +49,6 @@ tools:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TS-Development&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=TS-Development&theme=tokyonight&hide_border=true"/>
 </p>
 
