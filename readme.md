@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=TEERTH%20SONAWANI&fontSize=75&fontColor=00FF41&animation=fadeIn&fontAlignY=50&desc=AI%20%7C%20AUTOMATION%20%7C%20SYSTEMS&descAlignY=75&descSize=20&descColor=00E5FF"/>
+  <img src="https://raw.githubusercontent.com/TS-Development/TS-Development/teerth_binary_logo.svg" width="900"/>
 </p>
 
 <p align="center">
