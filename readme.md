@@ -16,6 +16,14 @@
 
 ---
 
+## 👋 Introduction
+
+<p align="center">
+  Hello, I’m <b>Teerth Sonawani</b>. I’m a first-year <b>B.Tech CSE</b> student in India. I build projects with practical, real-world utility. Interested in <b>Project Management</b>.
+</p>
+
+---
+
 ## ⚡ Overview
 
 <p align="center">
