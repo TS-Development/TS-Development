@@ -1,8 +1,12 @@
 <!-- NAME (MAIN FOCUS) -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=2500&pause=800&color=22F7C2&center=true&vCenter=true&width=900&lines=Teerth+Sonawani" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:22F7C2,50:6366F1,100:00E5FF&height=220&section=header&text=TEERTH%20SONAWANI&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&stroke=22F7C2&strokeWidth=2"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=1800&pause=500&color=22F7C2&center=true&vCenter=true&width=700&lines=INITIALIZING+PROFILE...;SYSTEM+ONLINE;WELCOME+TO+TEERTH.EXE" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22F7C2,100:6366F1&height=3"/>
