@@ -1,18 +1,20 @@
-<!-- NAME (MAIN FOCUS) -->
+<!-- CYBER IDENTITY HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:22F7C2,50:6366F1,100:00E5FF&height=220&section=header&text=TEERTH%20SONAWANI&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&stroke=22F7C2&strokeWidth=2"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=800&pause=200&color=00FF41&center=true&vCenter=true&width=900&lines=010101+010010+011001+010101+011000;ACCESSING+IDENTITY...;DECRYPTING+PROFILE...;WELCOME+TEERTH+SONAWANI" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=1800&pause=500&color=22F7C2&center=true&vCenter=true&width=700&lines=INITIALIZING+PROFILE...;SYSTEM+ONLINE;WELCOME+TO+TEERTH.EXE" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=TEERTH%20SONAWANI&fontSize=75&fontColor=00FF41&animation=fadeIn&fontAlignY=50&desc=AI%20%7C%20AUTOMATION%20%7C%20SYSTEMS&descAlignY=75&descSize=20&descColor=00E5FF"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22F7C2,100:6366F1&height=3"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=800&lines=%3E+AI+Integration;%3E+Discord+Bot+Development;%3E+Python+Automation;%3E+Building+Intelligent+Systems" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:00E5FF&height=2"/>
+</p>
 
 <!-- ROLE ANIMATION -->
 
